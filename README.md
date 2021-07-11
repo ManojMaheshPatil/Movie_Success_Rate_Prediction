@@ -1,2 +1,5 @@
-# Movie_Success_Rate_Prediction
-Predicting whether a movie will be a success or a flop
+# Movie Success Rate Prediction
+
+I have used Machine Learning Algorithms like Linear Regression and SVM to predict the SUCCESS of the movie.
+
+The dataset "TMDB dataset" is taken from Kaggle.com 
